@@ -1,0 +1,16 @@
+<html>
+       <head>
+                <title>irofuala 192867</title>
+       </head>
+
+
+       <body>
+                <h1>welcome to my website</h1>
+                <p>im stephanie and this is my first webpage. <br> im really excited to be working on this website and i can't wait to see how it goes. </p>
+                <p>in this website, we will dicuss about life <br> how different experiences in life makes us better or not</p>
+                <h2>Life Expriences</h2> 
+                <p>how i chose the friends to make in university <br>when i got my first job <br> when i went on my first vacation alone <br> my last days in university </p>
+                <img src="C:\Users\USER\Documents\image.bmp"/> 
+               
+       </body>
+       </html> 
