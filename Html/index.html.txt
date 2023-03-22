@@ -1,0 +1,33 @@
+<html>
+       <head>
+                <title>My Website</title>
+       </head>
+
+
+       <body> 
+	        <div id= " container"> 
+			     <div id= " header"> 
+                      <h1>welcome to my website</h1>
+				 </div> 
+                 <div id="content"> 
+                     </div id="nav">
+                           <h3>Navigation</h3>
+                           <ul> 
+                               <li>Home</li>
+                               <li>About</li>
+							   <li>Contact</li>
+                           </ul> 
+                     </div>
+                     <div id="main"> 
+                         <h2>Home page</h2>
+                         <h2>Home page</h2> 						 
+                <p>im stephanie and this is my first webpage. <br> im really excited to be working on this website and i can't wait to see how it goes. </p>
+                <p>in this website, we will discuss about life <br> how different experiences in life makes us better or not</p>
+				</div>
+			 </div>
+             <div id= "footer ">
+                  copyright & copy; 2023 Irofuala Stephanie. 			 
+             </div>
+		</div> 
+       </body>
+       </html> 
